@@ -1,3 +1,4 @@
+
 # Heart-Disease-Prediction
 
 
@@ -84,5 +85,8 @@ The model uses patient health parameters such as:
 - ST Slope
 - Major Vessels
 - Thalassemia
+
+[Output1.pdf](https://github.com/user-attachments/files/30398960/Output1.pdf)
+[output2.pdf](https://github.com/user-attachments/files/30398972/output2.pdf)
 
 
