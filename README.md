@@ -86,7 +86,12 @@ The model uses patient health parameters such as:
 - Major Vessels
 - Thalassemia
 
-[Output1.pdf](https://github.com/user-attachments/files/30398960/Output1.pdf)
-[output2.pdf](https://github.com/user-attachments/files/30398972/output2.pdf)
+
+
+<img width="1240" height="3508" alt="heart_disease_no_risk_long_screenshot" src="https://github.com/user-attachments/assets/7a06c54a-9990-4f3e-adae-9c3443c68e12" />
+
+<img width="1240" height="3508" alt="heart_disease_app_long_screenshot" src="https://github.com/user-attachments/assets/eca9a32e-8d93-4946-9f78-e0e7335a1dcb" />
+
+
 
 
