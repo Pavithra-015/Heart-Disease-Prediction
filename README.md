@@ -85,6 +85,4 @@ The model uses patient health parameters such as:
 - Major Vessels
 - Thalassemia
 
-## Disclaimer
 
-This application is developed for educational and research purposes only. It is not intended to replace professional medical advice, diagnosis, or treatment.
